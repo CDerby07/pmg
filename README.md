@@ -1,2 +1,0 @@
-# pmg
-paint mixing game
